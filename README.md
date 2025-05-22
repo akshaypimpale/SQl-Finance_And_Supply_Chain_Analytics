@@ -47,8 +47,8 @@ Due to the ever-expanding size of Excel-based reports, AtliQ Hardwares began fac
 
 ## 📁 Repository Contents
 
-- [📄 SQL_QUERIES.pdf](https://github.com/akshaypimpale/SQl-Finance_And_Supply_Chain_Analytics/blob/main/FINANCE_SUPPLY_CHAIN_ANALYTICS_SQL_QUERIES.pdf) – All SQL queries used for finance and supply chain analysis.
-- [📊 SQL_PROJECT.pptx](https://github.com/akshaypimpale/SQl-Finance_And_Supply_Chain_Analytics/blob/main/FINANCE_SUPPLY_CHAIN_ANALYTICS_USING_SQL.pptx) – Presentation deck summarizing business insights and visualizations.
+- [📄 FINANCE_SUPPLY_CHAIN_ANALYTICS_SQL_QUERIES.pdf](https://github.com/akshaypimpale/SQl-Finance_And_Supply_Chain_Analytics/blob/main/FINANCE_SUPPLY_CHAIN_ANALYTICS_SQL_QUERIES.pdf) – All SQL queries used for finance and supply chain analysis.
+- [📊 FINANCE_SUPPLY_CHAIN_ANALYTICS_USING_SQL.pptx](https://github.com/akshaypimpale/SQl-Finance_And_Supply_Chain_Analytics/blob/main/FINANCE_SUPPLY_CHAIN_ANALYTICS_USING_SQL.pptx) – Presentation deck summarizing business insights and visualizations.
 
 ---
 
